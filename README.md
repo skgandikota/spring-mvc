@@ -10,7 +10,7 @@ The View is responsible for rendering the model data and in general it generates
 The Controller is responsible for processing user requests and building an appropriate model and passes it to the view for rendering.
 
 
-#The DispatcherServlet 
+## The DispatcherServlet 
 
 The Spring Web model-view-controller (MVC) framework is designed around a DispatcherServlet that handles all the HTTP requests and responses. The request processing workflow of the Spring Web MVC DispatcherServlet is illustrated in the following diagram
 
